@@ -2,14 +2,6 @@
 
 A hands-on Microsoft 365 administration project built in a free Microsoft 365 E5 developer tenant. I set up a fictional company, CloudLab Enterprises, and administered it as its new IT administrator: users and licences, Exchange Online, SharePoint and OneDrive, Teams, Intune, Conditional Access, Defender and Purview.
 
-Platform
-
-Identity
-
-Endpoint
-
-Security
-
 ## Contents
 
 - Overview
